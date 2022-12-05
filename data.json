@@ -1,0 +1,45 @@
+{
+  "page": {
+    "components": [
+      {
+        "componentType": "button",
+        "buttonLabelShow": "Show cards", 
+        "buttonLabelHide": "Hide cards"
+      },
+      {
+        "componentType": "cards",
+        "title": "Our Language Courses",
+        "description": "Whatever language or method of learning you prefer, EF can deliver.",
+        "cards": [
+          {
+            "slug": "face-to-face",
+            "code": "Face to face",
+            "title": "Face-to-face courses",
+            "description": "The modern approach to classroom teaching, our courses combine the best of face-to-face training with high-tech online learning tools.",
+            "anchorText": "Learn more",
+            "anchorUrl": "/",
+            "image": "https://picsum.photos/420/260"
+          },
+          {
+            "slug": "online-courses",
+            "code": "Online courses",
+            "title": "Online courses",
+            "description": "Our online courses come in many flavors: from fully independent self-study classes to highly intensive private courses.",
+            "anchorText": "Learn more",
+            "anchorUrl": "/",
+            "image": "https://picsum.photos/420/260"
+          },
+          {
+            "slug": "study-abroad-courses",
+            "code": "Study abroad courses",
+            "title": "Study abroad courses",
+            "description": "For urgent, specialized language training needs, an immersion course abroad is often the fastest way to progress.",
+            "anchorText": "Learn more",
+            "anchorUrl": "/",
+            "image": "https://picsum.photos/420/260"
+          }
+        ]
+      }
+    ]
+  }
+}

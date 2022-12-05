@@ -1,0 +1,32 @@
+.card-container {
+  width: 30%;
+  box-shadow: 0 2px 1px -1px #0003, 0 1px 1px #00000024, 0 1px 3px #0000001f;
+  background: white;
+  border-radius: 5px;
+}
+
+.card-image {
+  width: 100%;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.card-information {
+  margin: 15px;
+}
+
+.card-title {
+  font-size: 16px;
+}
+
+.card-description {
+  font-weight: 300;
+  line-height: 16pt;
+}
+
+.card-link {
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 500;
+  color: #cfb53b;
+}
